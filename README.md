@@ -20,6 +20,3 @@ http://localhost:5000
 4)npm install 
 
 5)npm run dev
-
-preview
-https://www.linkedin.com/posts/jelinth-keziah-921b08251_react-python-flask-ugcPost-7439344678363332610-mPLK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5HTykBUmPIoTcf7mx-ZKdSkOEQLZG04J4
